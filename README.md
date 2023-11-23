@@ -25,7 +25,7 @@
 
 __PrintA__ — выводит на экран  массив.
 
+## Решение задачи в папке TASK, файл Program.cs
+
 ## Графическое представление метода
 ![Графичекое решение задачи](https://github.com/dolja4/FinalTASK/blob/main/Method2.png).
-
-## Решение задачи в папке TASK, файл Program.cs
