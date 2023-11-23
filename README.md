@@ -24,4 +24,4 @@
 __PrintA__ — выводит на экран  массив.
 
 ## Графическое представление метода
-![Графичекое решение задачи](https://disk.yandex.ru/i/4hvi-Zupv0YT4Q).
+![Графичекое решение задачи]([https://disk.yandex.ru/i/4hvi-Zupv0YT4Q](https://github.com/dolja4/FinalTASK/commit/60563f0d6831db3e253e1f09aa68de0fc1e388f4)https://github.com/dolja4/FinalTASK/commit/60563f0d6831db3e253e1f09aa68de0fc1e388f4).
